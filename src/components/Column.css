@@ -10,10 +10,6 @@
     border: dashed transparent 4px;
 }
 
-.column.drop {
-    border-color: white;
-}
-
 .titleWrapper {
     display: flex;
     justify-content: space-between;
